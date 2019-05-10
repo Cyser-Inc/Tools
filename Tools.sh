@@ -89,13 +89,13 @@ sleep 1
 clear
 echo
 echo $pur"==================="$cy" ============================="
-echo $i"Ôûê"$pu"  AUTHOR  :  Mr. Cyser  "$i"                    Ôûê"
-echo $i"Ôûê"$pu"  WhatsApp:  0895802871229"$i"                Ôûê"
-echo $i"Ôûê"$pu"  GMAIL   :  official.cyser.inc@gmail.com"$i"     Ôûê"
-echo $i"Ôûê"$pu"  YOUTUBE :  Cyser Inc."$i"                 Ôûê"
+echo $i""$pu"  AUTHOR  :  Mr. Cyser  "$i"                       "
+echo $i""$pu"  WhatsApp:  0895802871229"$i"                     "
+echo $i""$pu"  GMAIL   :  official.cyser.inc@gmail.com"$i"      "  
+echo $i""$pu"  YOUTUBE :  Cyser Inc."$i"                        "
 echo $pur"==================="$cy" ============================="
 echo
-echo $cy"MeNu BRUTEPORCE NeWS:"
+echo $cy"Menu Tools = "
 echo $ku"["$me"1"$ku"]"$i" REPORT FB"
 echo $ku"["$me"2"$ku"]"$i" BRUTE PORCE"
 echo $ku"["$me"3"$ku"]"$i" BRUTE FORCE FB CRACKER"
@@ -111,8 +111,8 @@ echo $ku"["$me"12"$ku"]"$i" LACAK LOKASI"
 echo $ku"["$me"13"$ku"]"$i" SPAM SMS BRUTAL TERBARU"
 echo $i"["$me"14"$i"]"$ku" EXIT"
 echo
-echo $pur"Ôò¡ÔöÇ["$pur"Masukkan pilihan anda"$pur"]"
-read -p"Ôò¦ÔöÇ>> " pil
+echo $pur"["$pur"Masukkan pilihan anda"$pur"]"
+read -p"=>> " pil
 
 if [ $pil = 1 ]
 then
