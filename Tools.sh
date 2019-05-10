@@ -176,7 +176,7 @@ figlet -f slant "E X I T"|lolcat
 sleep 2
 echo $cy"Terima Kasih sudah menggunakan Tools ini"
 sleep 2
-echo $i"Semoga Bermanfaat Buat anda"
+echo $i"Semoga Bermanfaat, Gunakan Dengan Bijak"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Laporkan Melalui Via"
 sleep 2
@@ -184,7 +184,7 @@ echo $ku"Facebook :"$i" CYSER"
 echo $ku"YouTube  :"$i" Cyser Inc."
 echo $ku"WhatsApp :"$i" 0895802871229"
 sleep 2
-echo $pur"Don't Forget !!!"
+echo $cy"Don't Forget !!!"
 echo $pur"SUBSCRIBE MY CHANNEL"$me" Cyser Inc."
 
 exit
