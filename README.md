@@ -1,5 +1,6 @@
 # Tools Gabungan
 
+
 ## Cara Install :
 ### $ pkg update && pkg upgrade -y
 ### $ pkg install php -y
@@ -10,7 +11,7 @@
 ### $ git clone https://github.com/Cyser-Inc/Tools
 ### $ ls
 ### $ cd Tools
-### $ sh rahmad.sh
+### $ sh Tools.sh
 
 
-## Created By # Mr. Cyser
+## Dibuat oleh Mr. Cyser
