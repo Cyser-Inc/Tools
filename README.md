@@ -1,5 +1,5 @@
 # Tools Gabungan
-echo
+
 ## Cara Install :
 ### $ pkg update && pkg upgrade -y
 ### $ pkg install php -y
@@ -12,4 +12,5 @@ echo
 ### $ cd Tools
 ### $ sh rahmad.sh
 
-## Created By Mr. Cyser
+
+## Created By # Mr. Cyser
