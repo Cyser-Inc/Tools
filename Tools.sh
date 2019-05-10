@@ -185,7 +185,7 @@ echo $ku"YouTube  :"$i" Cyser Inc."
 echo $ku"WhatsApp :"$i" 0895802871229"
 sleep 2
 echo $pur"Don't Forget !!!"
-echo $pur"SUBSCRIBE MY CHANNEL 
-echo $me "Cyser Inc."
+echo $pur"SUBSCRIBE MY CHANNEL"
+echo $me"Cyser Inc."
 exit
 fi
