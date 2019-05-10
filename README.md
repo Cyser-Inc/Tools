@@ -1,5 +1,5 @@
 # Tools Gabungan
-echo
+
 ## Cara Install :
 ### $ pkg update && pkg upgrade -y
 ### $ pkg install php -y
@@ -11,7 +11,7 @@ echo
 ### $ ls
 ### $ cd Tools
 ### $ sh Install.sh
-### File Install.sh Akan Terhapus & Digantikan Dengan File Tools.sh
+### * File Install.sh Akan Terhapus & Digantikan Dengan File Tools.sh
 ### $ sh Tools.sh
 
 ## Created By Mr. Cyser
