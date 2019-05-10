@@ -178,13 +178,14 @@ echo $cy"Terima Kasih sudah menggunakan Tools ini"
 sleep 2
 echo $i"Semoga Bermanfaat, Gunakan Dengan Bijak"
 sleep 2
-echo $pur"Bila Ada Kesalahan Anda Bisa Laporkan Melalui Via"
-sleep 2
+echo $pur"Bila Ada Kesalahan Anda Bisa Laporkan Melalui :"
+sleep 1
 echo $ku"Facebook :"$i" CYSER"
 echo $ku"YouTube  :"$i" Cyser Inc."
 echo $ku"WhatsApp :"$i" 0895802871229"
 sleep 2
 echo $cy"Don't Forget !!!"
+sleep 1
 echo $pur"SUBSCRIBE MY CHANNEL"$me" Cyser Inc."
 
 exit
